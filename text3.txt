@@ -1,0 +1,5 @@
+A thread that is ready to run is moved to a runnable state.
+The thread will be in blocked state when it is trying to acquire a lock but currently the lock is acquired by the other thread.
+The thread will be in waiting state when it calls wait() method or join() method.
+A thread lies in a timed waiting state when it calls a method with a time-out parameter.
+The thread has completed execution. 
