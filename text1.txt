@@ -1,5 +1,1 @@
 Exception Handling 
-The "try" keyword is used to specify a block where we should place an exception code.
-The "catch" block is used to handle the exception
-	The "finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not
-	
