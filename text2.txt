@@ -1,5 +1,5 @@
 hello world
-Runnable is an interface that is to be implemented by a class whose instances are intended to be executed by a thread. 
+
 New State
 Runnable State
 Blocked State
