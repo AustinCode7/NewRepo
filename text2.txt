@@ -3,5 +3,4 @@ Runnable is an interface that is to be implemented by a class whose instances ar
 New State
 Runnable State
 Blocked State
-Waiting State
-Timed Waiting State
+
